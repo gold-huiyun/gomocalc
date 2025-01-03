@@ -16,7 +16,7 @@ If you find any bug in this project or you have a good idea about it, you are we
 This project was powered by Vue.js, together with [Vux](https://vux.li/).
 当然可以！以下是翻译内容：
 
-**注意：Gomocalc 现在是开源的！** 请参阅 https://github.com/dhbloo/gomoku-calculator。
+**注意：Gomocalc 现在是开源的！** 请参阅 https://github.com/dhbloo/gomoku-calculator
 
 **注意：此 GitHub 页面现已托管在 gomocalc.com**。此仓库作为镜像站点。
 
